@@ -10,3 +10,6 @@ RUN yum install net-tools -y
 RUN yum install gedit -y
 RUN yum install PackageKit-gtk3-module libcanberra-gtk2 -y
 
+
+
+
